@@ -1,0 +1,7 @@
+ID,Name,Position,Games,Completions,Attempts,Completion%,Yards,Touchdowns,TD%,INT,INT%,Yards/Att,Yards/Comp,Yards/Game,Rating,QBR
+1,Jackson Arnold,QB,10,154,246,62.6,1421,12,4.9,3,1.2,5.8,6.2,9.2,142.1,124.8
+2,Michael Hawkins Jr.,QB,7,76,120,63.3,783,3,2.5,2,1.7,6.5,6.28,10.3,111.9,123.1
+3,Luke Elzinga,P,13,3,3,100.0,66,0,0.0,0,0.0,22.0,22.0,22.0,5.1,284.8
+4,Taylor Tatum,RB,11,2,2,100.0,16,1,50.0,0,0.0,8.0,18.0,8.0,1.5,332.2
+5,Bauer Sharp,TE,12,0,1,0.0,0,0,0.0,1,100.0,0.0,-45.0,,0.0,-200.0
+6,Brenen Thompson,WR,11,0,1,0.0,0,0,0.0,0,0.0,0.0,0.0,,0.0,0.0
